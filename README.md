@@ -3,6 +3,8 @@
 Cette liste "awesome" recense différentes chaines Youtube qui apportent de façon ludique des connaissances sur différents thèmes.
 Si cette liste existe, c'est pour vous faire découvrir ces supers chaines, mais aussi pour remercier leurs auteurs de nous partager ces supers connaissances.
 
+N'hésitez surtout pas à contribuer au développement de cette liste
+
 ## Animaux
 - [Virgule Animale](https://www.youtube.com/@VirguleAnimale)
 - [Faune Cool](https://www.youtube.com/@FauneCool)
