@@ -7,8 +7,9 @@ Si cette liste existe, c'est pour vous faire découvrir ces supers chaines, mais
 - [Virgule Animale](https://www.youtube.com/@VirguleAnimale)
 - [Faune Cool](https://www.youtube.com/@FauneCool)
 
+## Botanique
+- [TaMereNature](https://www.youtube.com/@TaMereNature)
+
 ## Littérature française
 - [Athéna Sol](https://www.youtube.com/@athena_sol)
 
-## Botanique
-- [TaMereNature](https://www.youtube.com/@TaMereNature)
