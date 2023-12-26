@@ -12,6 +12,20 @@ N'hésitez surtout pas à contribuer au développement de cette liste
 ## Botanique
 - [TaMereNature](https://www.youtube.com/@TaMereNature)
 
+## Découverte de métiers
+- [Ludovic B](https://youtube.com/@LudovicBvideos)
+
+## Etude des foules
+- [Fouloscopie](https://youtube.com/@Fouloscopie)
+
+## Journalisme
+- [Charles Villa](https://youtube.com/@CharlesVilla)
+
 ## Littérature française
 - [Athéna Sol](https://www.youtube.com/@athena_sol)
 
+## Scientifique
+- [Scilabus](https://youtube.com/@scilabus)
+
+## Survie
+- [Nico Mathieux](https://youtube.com/@NicoMathieux)
